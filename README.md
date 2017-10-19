@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sverrirbb/stringCalcWeb.svg?branch=master.png)](https://travis-ci.org/sverrirbb/stringCalcWeb)
+[![Build Status](https://travis-ci.org/sverrirbb/stringCalcWeb.svg?branch=master)](https://travis-ci.org/sverrirbb/stringCalcWeb)
 
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017 - Hallo
 
