@@ -1,4 +1,4 @@
-[![Build Status](your travis url for the repo here.png)](your travis url for the repo here)
+[![Build Status](https://travis-ci.org/sverrirbb/stringCalcWeb.svg?branch=master.png)](https://travis-ci.org/sverrirbb/stringCalcWeb.svg?branch=master)
 
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
